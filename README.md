@@ -121,10 +121,10 @@ These figures represent mentions in the selected dataset, not the entire job mar
 
 ### 🔜 Next Steps
 
-- Analyze job postings by city.
-- Validate experience requirements and salary fields.
-- Compare work modes, including on-site, hybrid, and remote.
-- Develop SQL queries and a Power BI dashboard.
+- Review and refine the completed city, experience, and salary analyses.
+- Validate data quality, including inconsistent experience values and unusual salary records.
+- Review the completed work-mode and SQL analyses for accuracy.
+- Build a Power BI dashboard to present the key findings interactively.
 
 ### 📍 City Analysis: Top 10 Locations
 
