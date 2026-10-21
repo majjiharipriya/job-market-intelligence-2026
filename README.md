@@ -78,12 +78,13 @@ The analysis will calculate:
 
 ## 💡 Expected Deliverables
 
-- Cleaned job-posting dataset
-- Python analysis script
-- SQL query collection
-- Skill-demand and location visualizations
-- Power BI dashboard
-- Documented findings and business recommendations
+- Documented job-posting dataset source and data-quality considerations
+- Python analysis script for Data Analyst job listings
+- SQL query collection for business analysis
+- Visualizations for skills, locations, experience, and salary patterns
+- Summary CSV containing Data Analyst skill counts and percentages
+- Power BI dashboard (planned)
+- Findings, limitations, and evidence-based recommendations
 
 ## 📊 Initial Analysis: Data Analyst Skills
 
