@@ -128,6 +128,36 @@ These figures represent mentions in the selected dataset, not the entire job mar
 - Compare work modes, including on-site, hybrid, and remote.
 - Develop SQL queries and a Power BI dashboard.
 
+### 📍 City Analysis: Top 10 Locations
+
+The dataset contains 4,729 Data Analyst job listings. The following table shows the top 10 locations by job listing count in the selected dataset.
+
+| City | Job Listings |
+|---|---:|
+| Noida | 606 |
+| Bangalore | 541 |
+| Ahmedabad | 532 |
+| Kolkata | 512 |
+| Pune | 498 |
+| Chennai | 477 |
+| Mumbai | 464 |
+| Gurgaon | 416 |
+| Remote | 360 |
+| Delhi | 164 |
+
+### 🔍 Key Findings
+
+- **Noida** recorded the highest number of listings, with 606.
+- **Bangalore** ranked second with 541 listings.
+- **Ahmedabad** ranked third with 532 listings.
+- **Remote** appeared as a separate category, with 360 listings.
+- **Delhi** had the lowest count among these top 10 entries, with 164 listings.
+
+### 📊 City Analysis Visualization
+
+![Top 10 Cities for Data Analyst Job Listings](outputs/charts/top_10_data_analyst_cities.png)
+
+*Note: These findings represent the selected dataset and should not be interpreted as a complete measure of current hiring demand across India.*
 ## 📚 Dataset and Data Quality
 
 The dataset source, collection date, geographic coverage, date range, and applicable license will be documented here.
