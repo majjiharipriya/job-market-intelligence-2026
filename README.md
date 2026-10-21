@@ -221,3 +221,54 @@ The analysis examined 4,729 Data Analyst job listings to understand the experien
 Experience categories were derived from the original experience-range text. These are preliminary analytical groupings, not official industry standards. Some listings contain inconsistent numeric experience fields, and 160 listings could not be classified. Further validation is required before drawing conclusions about entry-level opportunities.
 
 *These results describe the selected dataset and do not represent the entire Indian job market.*
+
+
+
+## 💰 Salary Analysis for Data Analyst Jobs
+
+This analysis examines salary information from 4,729 Data Analyst job listings in the selected dataset.
+
+### Salary Disclosure
+
+- Total Data Analyst job listings: 4,729
+- Listings with disclosed salary: 640 (13.53%)
+- Listings without disclosed salary: 4,089
+
+Salary information was available for only a small proportion of listings, so the salary statistics below should be interpreted with caution.
+
+### Salary Statistics
+
+The analysis included 633 listings with disclosed and valid salary ranges.
+
+| Metric | Result |
+|---|---:|
+| Average minimum salary | 8.12 LPA |
+| Average maximum salary | 13.29 LPA |
+| Median salary midpoint | 9.50 LPA |
+| Lowest listed minimum salary | 0.05 LPA |
+| Highest listed maximum salary | 90.00 LPA |
+
+### Job Listings by Salary Tier
+
+| Salary Tier | Job Listings |
+|---|---:|
+| Entry (<3 LPA) | 107 |
+| Junior (3–6 LPA) | 172 |
+| Mid (6–10 LPA) | 81 |
+| Senior (10–20 LPA) | 238 |
+| Leadership (20+ LPA) | 35 |
+
+### Key Findings
+
+- Salary information was disclosed in 13.53% of Data Analyst listings.
+- Senior roles (10–20 LPA) formed the largest salary tier among the 633 valid salary records.
+- The median salary midpoint was 9.50 LPA.
+- The maximum listed salary of 90 LPA and minimum of 0.05 LPA should be validated as potential outliers or unusual records.
+
+### Salary Visualization
+
+![Data Analyst Job Listings by Salary Tier](outputs/charts/data_analyst_salary_tiers.png)
+
+### Limitations
+
+These results represent only the selected dataset and the listings with usable salary information. They should not be treated as definitive salary benchmarks for the entire Indian job market.
