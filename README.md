@@ -41,13 +41,11 @@ job-market-intelligence-2026/
 │   └── job_postings.csv
 │
 ├── python/
-│   └── analyze_jobs.py
+│   └── data_analyst_skills.py
 │
 ├── sql/
 │   └── analysis_queries.sql
 │
-├── dashboard/
-│   └── power_bi_build_guide.md
 │
 ├── outputs/
 │   └── charts/
