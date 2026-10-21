@@ -87,13 +87,46 @@ The analysis will calculate:
 - Power BI dashboard
 - Documented findings and business recommendations
 
-## 📊 Findings and Business Recommendations
+## 📊 Initial Analysis: Data Analyst Skills
 
-This section will be completed after analyzing the selected real dataset.
+The selected dataset contains 23,201 job listings across six technology job categories, including 4,729 listings categorized as Data Analyst roles.
 
-Findings will include the actual number of records analyzed, dataset coverage, most frequently mentioned skills, location patterns, experience requirements, and salary-data availability.
+The initial skills analysis identified the following frequently occurring skill labels in Data Analyst job postings:
 
-Recommendations will be based on the observed results rather than assumptions.
+| Skill | Job Listings | Share of Data Analyst Listings |
+|---|---:|---:|
+| Data Analysis | 2,546 | 53.84% |
+| Power BI | 474 | 10.02% |
+| SQL | 473 | 10.00% |
+| Python | 429 | 9.07% |
+| Excel | 318 | 6.72% |
+
+These figures represent mentions in the selected dataset, not the entire job market. Skill labels have not yet been consolidated into broader skill categories.
+
+### 📈 Skills Visualization
+
+![Top 15 Skills in Data Analyst Job Listings](outputs/charts/top_15_data_analyst_skills.png)
+
+### 💡 Initial Observations
+
+- Data Analysis is the most frequently occurring skill label in this dataset.
+- Power BI and SQL have similar mention counts.
+- Python and Excel also appear among the frequently mentioned skills.
+- Further analysis is needed to validate the data and investigate locations, experience requirements, and salary patterns.
+
+### 🛠️ Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- GitHub
+
+### 🔜 Next Steps
+
+- Analyze job postings by city.
+- Validate experience requirements and salary fields.
+- Compare work modes, including on-site, hybrid, and remote.
+- Develop SQL queries and a Power BI dashboard.
 
 ## 📚 Dataset and Data Quality
 
