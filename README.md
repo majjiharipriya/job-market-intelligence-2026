@@ -189,3 +189,35 @@ The analysis will distinguish between missing information and genuine zero value
 Aspiring Data Analyst | Excel | Python | SQL | Power BI
 
 **Portfolio objective:** Demonstrate practical data analysis, problem-solving, visualization, and evidence-based decision-making skills.
+
+## 📊 Experience Requirements for Data Analyst Jobs
+
+The analysis examined 4,729 Data Analyst job listings to understand the experience levels requested in the selected dataset.
+
+| Experience Level | Job Listings | Percentage |
+|---|---:|---:|
+| Mid-level (3–5+ years) | 2,402 | 50.79% |
+| Experienced (5+ years) | 1,462 | 30.92% |
+| Early career (up to 3 years) | 579 | 12.24% |
+| Fresher / Entry-level (0–1 years) | 126 | 2.66% |
+| Unknown | 160 | 3.38% |
+| **Total** | **4,729** | **99.99%** |
+
+*Percentages may not total exactly 100% due to rounding.*
+
+### Key Findings
+
+- Mid-level roles account for 50.79% of listings.
+- Experienced roles account for 30.92% of listings.
+- Fresher or entry-level roles account for 2.66% under the classification used.
+- Experience information could not be classified for 160 listings (3.38%).
+
+### 📈 Experience-Level Visualization
+
+![Experience Requirements for Data Analyst Jobs](outputs/charts/data_analyst_experience_levels.png)
+
+### Data Quality Note
+
+Experience categories were derived from the original experience-range text. These are preliminary analytical groupings, not official industry standards. Some listings contain inconsistent numeric experience fields, and 160 listings could not be classified. Further validation is required before drawing conclusions about entry-level opportunities.
+
+*These results describe the selected dataset and do not represent the entire Indian job market.*
