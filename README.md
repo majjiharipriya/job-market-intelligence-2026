@@ -272,3 +272,20 @@ The analysis included 633 listings with disclosed and valid salary ranges.
 ### Limitations
 
 These results represent only the selected dataset and the listings with usable salary information. They should not be treated as definitive salary benchmarks for the entire Indian job market.
+
+
+
+## 🗃️ SQL Analysis
+
+SQL queries were executed using DuckDB in Google Colab to analyze Data Analyst job postings.
+
+The analysis covers:
+
+- Total job listings and Data Analyst job counts
+- Top 10 locations by job listing count
+- Salary disclosure rates and salary statistics
+- Job listings by work mode (on-site, remote, and hybrid)
+- Job listings by experience level
+- Top 10 Data Analyst job titles
+
+**SQL queries:** [`sql/analysis_queries.sql`](sql/analysis_queries.sql)
