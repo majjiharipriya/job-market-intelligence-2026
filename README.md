@@ -35,22 +35,22 @@ This project uses job-posting data to explore hiring requirements and transform 
 
 ```text
 job-market-intelligence-2026/
-│
 ├── data/
-│   ├── README.md
-│   └── job_postings.csv
-│
+│   └── README.md
+├── notebooks/
+│   └── README.md
+├── outputs/
+│   ├── charts/
+│   │   ├── top_15_data_analyst_skills.png
+│   │   ├── top_10_data_analyst_cities.png
+│   │   ├── data_analyst_experience_levels.png
+│   │   └── data_analyst_salary_tiers.png
+│   └── data_analyst_skill_summary.csv
 ├── python/
 │   └── data_analyst_skills.py
-│
 ├── sql/
 │   └── analysis_queries.sql
-│
-│
-├── outputs/
-│   └── charts/
-│
-├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
