@@ -67,7 +67,7 @@ job-market-intelligence-2026/
 
 ## 📈 Key Performance Indicators
 
-The analysis will calculate:
+The analysis tracks the following key performance indicators:
 
 - Total job postings analyzed
 - Number and percentage of postings mentioning each skill
