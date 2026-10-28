@@ -8,7 +8,7 @@
 
 The job market is constantly evolving, and aspiring Data Analysts need to understand which technical skills and qualifications employers request.
 
-This project uses job-posting data to explore hiring requirements and transform raw data into actionable insights. It demonstrates the complete data analytics workflow, from data cleaning to visualization and business recommendations.
+This project uses job-posting data to explore hiring requirements and transform raw data into actionable insights. It demonstrates the complete  analytics workflow, from  cleaning to visualization and business recommendations.
 
 ## 🎯 Business Questions
 
@@ -159,11 +159,13 @@ The dataset contains 4,729 Data Analyst job listings. The following table shows 
 *Note: These findings represent the selected dataset and should not be interpreted as a complete measure of current hiring demand across India.*
 ## 📚 Dataset and Data Quality
 
-The dataset source, collection date, geographic coverage, date range, and applicable license will be documented here.
+The analysis uses the **Indian Tech Job Market 2026** dataset obtained from Kaggle. The dataset contains 23,201 job listings across 32 columns, with job-posting data sourced from Naukri.com.
 
-The analysis will distinguish between missing information and genuine zero values. Salary figures will be compared only after checking their units and consistency.
+Although the dataset title refers to 2026, its reported collection date is June 10, 2025. Therefore, the findings represent the selected dataset and should not be interpreted as current, real-time hiring trends.
 
-**Data integrity:** No job-market statistics or findings will be claimed until they have been calculated from the selected dataset.
+The analysis considers data quality issues involving missing information, experience values, salary ranges, and potential outliers. Salary statistics are calculated using listings with valid, disclosed salary information.
+
+**License:** The dataset is listed under CC BY-SA 4.0. Refer to the original Kaggle dataset page for licensing and attribution requirements. The raw dataset is not included in this repository.
 
 ## ⚠️ Limitations
 
