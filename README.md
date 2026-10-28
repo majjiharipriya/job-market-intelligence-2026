@@ -28,7 +28,7 @@ This project uses job-posting data to explore hiring requirements and transform 
 | Pandas | Data manipulation and aggregation |
 | Matplotlib | Charts and visualizations |
 | SQL | Structured querying and business analysis |
-| Power BI | Interactive dashboard and reporting |
+| Power BI | Planned interactive dashboard development |
 | GitHub | Version control and project documentation |
 
 ## 📁 Project Structure
