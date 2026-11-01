@@ -278,15 +278,22 @@ These results represent only the selected dataset and the listings with usable s
 
 ## 🗃️ SQL Analysis
 
-SQL queries were executed using DuckDB in Google Colab to analyze Data Analyst job postings.
+SQL queries were executed and verified using DuckDB in Kaggle Notebooks on the Indian Tech Job Market 2026 dataset, containing 23,201 job listings.
 
 The analysis covers:
 
-- Total job listings and Data Analyst job counts
-- Top 10 locations by job listing count
-- Salary disclosure rates and salary statistics
-- Job listings by work mode (on-site, remote, and hybrid)
-- Job listings by experience level
-- Top 10 Data Analyst job titles
+Total job listings and Data Analyst job counts
 
-**SQL queries:** [`sql/analysis_queries.sql`](sql/analysis_queries.sql)
+Top 10 locations by job listing count
+
+Salary disclosure rates and salary statistics
+
+Job listings by work mode (on-site, remote, and hybrid)
+
+Job listings by experience level
+
+Top 10 Data Analyst job titles
+
+Execution: All 8 SQL queries were successfully executed and verified.
+
+SQL queries: sql/analysis_queries.sql
