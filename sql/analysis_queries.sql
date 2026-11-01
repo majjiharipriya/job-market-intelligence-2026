@@ -1,7 +1,7 @@
 
 -- Job Market Intelligence 2026
 -- SQL Analysis: Data Analyst Job Listings
--- SQL queries tested in Google Colab using DuckDB
+-- SQL queries executed and verified in Kaggle using DuckDB
 
 -- 1. Total number of job listings
 SELECT COUNT(*) AS total_job_listings
