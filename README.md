@@ -122,10 +122,10 @@ These figures represent mentions in the selected dataset, not the entire job mar
 
 ### 🔜 Next Steps
 
-- Review and refine the completed city, experience, and salary analyses.
-- Validate data quality, including inconsistent experience values and unusual salary records.
-- Review the completed work-mode and SQL analyses for accuracy.
-- Build a Power BI dashboard to present the key findings interactively.
+- Develop a Power BI dashboard with interactive filters.
+- Improve skill extraction using natural language processing.
+- Add automated data-quality checks.
+- Refresh the analysis when new, comparable data becomes available.
 
 ### 📍 City Analysis: Top 10 Locations
 
