@@ -111,7 +111,7 @@ These figures represent mentions in the selected dataset, not the entire job mar
 - Data Analysis is the most frequently occurring skill label in this dataset.
 - Power BI and SQL have similar mention counts.
 - Python and Excel also appear among the frequently mentioned skills.
-- Further analysis is needed to validate the data and investigate locations, experience requirements, and salary patterns.
+- Further analysis of job locations, experience requirements, and salary patterns is documented in the sections below.
 
 ### 🛠️ Tools Used
 
