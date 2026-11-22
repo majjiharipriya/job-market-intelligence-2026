@@ -193,25 +193,23 @@ Aspiring Data Analyst | Excel | Python | SQL | Power BI
 
 ## 📊 Experience Requirements for Data Analyst Jobs
 
-The analysis examined 4,729 Data Analyst job listings to understand the experience levels requested in the selected dataset.
+The analysis examined 4,729 Data Analyst job listings.
 
 | Experience Level | Job Listings | Percentage |
 |---|---:|---:|
-| Mid-level (3–5+ years) | 2,402 | 50.79% |
-| Experienced (5+ years) | 1,462 | 30.92% |
-| Early career (up to 3 years) | 579 | 12.24% |
-| Fresher / Entry-level (0–1 years) | 126 | 2.66% |
-| Unknown | 160 | 3.38% |
-| **Total** | **4,729** | **99.99%** |
-
-*Percentages may not total exactly 100% due to rounding.*
+| Mid (3–5 years) | 1,915 | 40.49% |
+| Junior (0–2 years) | 1,432 | 30.28% |
+| Fresher | 637 | 13.47% |
+| Senior (6–8 years) | 609 | 12.88% |
+| Lead/Architect (9+ years) | 136 | 2.88% |
+| **Total** | **4,729** | **100%** |
 
 ### Key Findings
 
-- Mid-level roles account for 50.79% of listings.
-- Experienced roles account for 30.92% of listings.
-- Fresher or entry-level roles account for 2.66% under the classification used.
-- Experience information could not be classified for 160 listings (3.38%).
+- Mid-level roles account for the largest share (40.49%).
+- Junior roles account for 30.28%.
+- Fresher roles account for 13.47%.
+- Lead/Architect roles account for 2.88%.
 
 ### 📈 Experience-Level Visualization
 
@@ -219,9 +217,9 @@ The analysis examined 4,729 Data Analyst job listings to understand the experien
 
 ### Data Quality Note
 
-Experience categories were derived from the original experience-range text. These are preliminary analytical groupings, not official industry standards. Some listings contain inconsistent numeric experience fields, and 160 listings could not be classified. Further validation is required before drawing conclusions about entry-level opportunities.
+Experience categories are analytical groupings based on the original experience requirements in the dataset. They are not official industry standards.
 
-*These results describe the selected dataset and do not represent the entire Indian job market.*
+These findings represent the selected dataset and should not be interpreted as a complete measure of the Indian job market.
 
 
 
