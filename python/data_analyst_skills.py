@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # Project output directory
-OUTPUT_DIR = Path("outputs")
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 CHART_DIR = OUTPUT_DIR / "charts"
 CHART_DIR.mkdir(parents=True, exist_ok=True)
 
